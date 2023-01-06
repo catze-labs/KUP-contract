@@ -5,6 +5,8 @@
     "hardhat": "^2.12.5"
   },
   "dependencies": {
-    "@klaytn/contracts": "^1.0.6"
+    "@klaytn/contracts": "^1.0.6",
+    "dotenv": "^16.0.3",
+    "solc": "^0.8.17"
   }
 }
