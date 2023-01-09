@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# KUP-contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project lists the example smart contracts available in KUP.
 
-Try running some of the following tasks:
+This example includes Fungible Token(KUPFT.sol), Not-Fungible Token(KUPNFT.sol) and soul bound token(KUPSBT.sol).
 
 ```shell
 npx hardhat help
